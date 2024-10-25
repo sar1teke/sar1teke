@@ -42,6 +42,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sar1teke&show_icons=true&locale=en&layout=compact" alt="sar1teke" width="45%" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sar1teke&show_icons=true&locale=en" alt="sar1teke" width="45%" /></p>
+<!-- Kartlar için genişlik 49.5% olarak ayarlandı -->
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sar1teke&show_icons=true&locale=en&layout=compact" alt="sar1teke" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sar1teke&show_icons=true&locale=en" alt="sar1teke" width="49.5%" />
+</div>
