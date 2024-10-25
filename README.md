@@ -42,8 +42,6 @@
   </a>
 </p>
 
-<!-- Kartlar için genişliği 500 piksel olarak ayarladık ve flexbox kullandık -->
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sar1teke&show_icons=true&locale=en&layout=compact" alt="sar1teke" width="500px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sar1teke&show_icons=true&locale=en" alt="sar1teke" width="500px" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sar1teke&show_icons=true&locale=en&layout=compact" alt="sar1teke" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sar1teke&show_icons=true&locale=en" alt="sar1teke" /></p>
