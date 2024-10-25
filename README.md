@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ1cGNybzl1c3hlNGVjanI5b3BkbWxmdGRlYW4zNWtsYjc0ejZieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="this slowpoke moves" width="1000" />
+<img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ1cGNybzl1c3hlNGVjanI5b3BkbWxmdGRlYW4zNWtsYjc0ejZieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)" alt="this slowpoke moves" width="1000" />
 
 <h1 align="center">Merhaba 👋, Ben İsmail Sarıteke</h1>
 <h3 align="center">Yazılım Geliştirici ve Teknoloji Meraklısı</h3>
