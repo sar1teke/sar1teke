@@ -5,7 +5,7 @@
 
 - 🌱 Şu anda öğreniyorum: **Yapay Zeka, C#, Python**
 
-- 📫 Bana ulaşmak için: **ismailsariteke784@gmail.com**  <!-- Kendi e-posta adresinizi buraya ekleyin -->
+- 📫 Bana ulaşmak için: **ismailsariteke784@gmail.com**
 
 <h3 align="left">Bağlantılar:</h3>
 <p align="left">
@@ -42,6 +42,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sar1teke&show_icons=true&locale=en" alt="sar1teke" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sar1teke&show_icons=true&locale=en&layout=compact" alt="sar1teke" width="45%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sar1teke&show_icons=true&locale=en" alt="sar1teke" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sar1teke&show_icons=true&locale=en" alt="sar1teke" width="45%" /></p>
