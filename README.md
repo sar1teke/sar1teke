@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/POU01YSFVn8zK" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-funny-cute-POU01YSFVn8zK">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/POU01YSFVn8zK/giphy.gif" alt="computer science gif" width="1000" />
 
 <h1 align="center">Merhaba 👋, Ben İsmail Sarıteke</h1>
 <h3 align="center">Yazılım Geliştirici ve Teknoloji Meraklısı</h3>
