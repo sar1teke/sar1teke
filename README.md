@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/POU01YSFVn8zK/giphy.gif" alt="computer science gif" width="1000" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG50aWxnZ2ZsMjR0cXE1NWRhNWxmMm1nZXo3bjk4dm4zcmxmb3NtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oaDcc0LTCuIAiGYrzn/giphy.gif" alt="computer science gif" width="1000" />
 
 <h1 align="center">Merhaba 👋, Ben İsmail Sarıteke</h1>
 <h3 align="center">Yazılım Geliştirici ve Teknoloji Meraklısı</h3>
