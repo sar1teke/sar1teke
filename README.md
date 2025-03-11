@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZ6emt1aTZra3duMHdsc2NjeW90dDBhcTRxdHhhd2dqbWFlZnI3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S7u66urzxc2J2/giphy.gif" alt="computer science gif" width="1000" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9yb2EyaG0zaWVhNGxha3RybGVhdmZ3cHB4cWVhanVncDY3MGE4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="computer science gif" width="1000" />
 
 <h1 align="center">Merhaba 👋, Ben İsmail Sarıteke</h1>
 <h3 align="center">Yazılım Geliştirici ve Teknoloji Meraklısı</h3>
